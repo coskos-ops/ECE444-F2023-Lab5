@@ -7,6 +7,8 @@ The example has been replicated
 
 # Part2
 
+For part 2, I created the test_invalid_login, test_register, test_valid_login tests to test the ability of our backend api to sucessfully process login/register requests.
+
 https://github.com/ECE444-2023Fall/project-1-web-application-design-group22-premium-potatoes/blob/1769da9cc7c6baf81d6411dd3396d38773a71b50/api/api_tests/app_test.py#L26C4-L26C4
 
 https://github.com/ECE444-2023Fall/project-1-web-application-design-group22-premium-potatoes/blob/1769da9cc7c6baf81d6411dd3396d38773a71b50/api/api_tests/app_test.py#L36
